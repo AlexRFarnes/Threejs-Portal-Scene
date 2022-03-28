@@ -36,8 +36,8 @@ npm run build
 
 ## Screenshots
 
-![Screenshot]()
-[Demo]()
+![Screenshot 2022-03-28 at 22-07-13 38 - Importing and optimizing the scene](https://user-images.githubusercontent.com/57517804/160416125-6daf3840-9b36-47e7-a8a1-8e2a5d753f0e.png)
+[Demo](https://www.alexrfarnes.dev/)
 
 ## Technologies
 
